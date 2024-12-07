@@ -38,7 +38,7 @@ https://github.com/Abdullah-XDev/Network-Security-Scanning-NSS-Scripts.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd repository
+cd Network-Security-Scanning-NSS-Scripts
 ```
 3. Make the script executable:
 ```bash

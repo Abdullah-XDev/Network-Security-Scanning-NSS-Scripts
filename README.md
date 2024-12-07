@@ -42,11 +42,11 @@ cd Network-Security-Scanning-NSS-Scripts
 ```
 3. Make the script executable:
 ```bash
-chmod +x scan_script.sh
+chmod +x anyfile_scan.sh
 ```
 4. Run the script as root:
 ```bash
-sudo ./scan_script.sh
+sudo ./anyfile_scan.sh
 ```
 5. Follow the prompts to enter the target network, domain for DNS enumeration, and target URL/IP for the Nikto scan.
 
